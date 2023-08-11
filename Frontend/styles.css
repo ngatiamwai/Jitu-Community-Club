@@ -18,8 +18,20 @@ form{
     gap: 3vh;
 }
 input{
-    height: 5vh;
+    border-radius: 1vh;
+    height: 6vh;
     width: 20vw;
     align-items: center;
     outline: none;
+}
+button{
+    height: 6vh;
+    width: 20vw;
+    border-radius: 1vh;
+    color: white;
+    background-color: blueviolet;
+}
+a{
+    text-decoration: none;
+    
 }
